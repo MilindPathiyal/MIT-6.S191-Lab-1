@@ -1,4 +1,4 @@
-# MIT-6.S191-Lab-1
+# MIT-6.S191-Lab-1 (In progress)
 Lab 1: Intro to TensorFlow and Music Generation with RNNs 
 
 Part 1: Intro to TensorFlow
