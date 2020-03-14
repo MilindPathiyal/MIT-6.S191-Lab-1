@@ -11,6 +11,9 @@ Built a Recurrent Neural Network (RNN) for music generation.
 Used a "character RNN" to predict the next character of sheet music in ABC notation. 
 Finally, I sampled from this model to generate a brand new music file that has never been heard before!
 
+Training Techniques:
+- Used the sparse_categorical_crossentropy loss, as it utilizes integer targets for categorical classification tasks
+- Manipulated hyperparameter setting and optimization parameters
 ### Course Outline:
 Lecture 1:Intro to Deep Learning
 
